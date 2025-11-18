@@ -14,3 +14,16 @@
 - Stores, retrieves, and manages structured/unstructured data.
 - Defines tables, relations, indexes, constraints.
 - Ensures data integrity (ACID), backups, performance, and security.
+
+
+Explain the responsibility of .NET stack tools: SQL Server, C#, EF Core, LINQ, Blazor
+
+SQL Server: Responsible for storing and managing application data. Acts as the database layer for web applications. Handles data integrity, queries, and transactions.
+
+C#: Main backend programming language in the .NET stack. Used to write server-side logic, handle business rules, and manage application flow. Object-oriented and scalable.
+
+EF Core (Entity Framework Core): ORM tool that allows developers to work with the database using C# objects. Handles CRUD operations automatically and reduces direct SQL coding.
+
+LINQ (Language Integrated Query): Enables querying data (from databases, collections, or XML) directly in C# code. Makes data manipulation easier and readable. Works with EF Core for database queries.
+
+Blazor: Frontend framework for building interactive web applications with C#. Can run in the browser (WebAssembly) or on the server. Allows full-stack development using only C#.
