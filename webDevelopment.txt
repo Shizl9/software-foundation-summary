@@ -1,0 +1,16 @@
+1) Front-end Responsibilities
+- Build the user interface (UI) and user experience (UX).
+- Uses HTML, CSS, JavaScript to display content.
+- Handles user interactions, buttons, forms, validations.
+- Ensures responsive design and fast page performance.
+
+2) Back-end Responsibilities
+- Handles business logic and server operations.
+- Processes user requests, authentication, authorization.
+- Connects to the database, external APIs, and manages sessions.
+- Ensures data security and server performance.
+
+3) Database Responsibilities
+- Stores, retrieves, and manages structured/unstructured data.
+- Defines tables, relations, indexes, constraints.
+- Ensures data integrity (ACID), backups, performance, and security.
