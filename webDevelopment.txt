@@ -27,3 +27,13 @@ EF Core (Entity Framework Core): ORM tool that allows developers to work with th
 LINQ (Language Integrated Query): Enables querying data (from databases, collections, or XML) directly in C# code. Makes data manipulation easier and readable. Works with EF Core for database queries.
 
 Blazor: Frontend framework for building interactive web applications with C#. Can run in the browser (WebAssembly) or on the server. Allows full-stack development using only C#.
+
+| Feature                   | C#                                                         | Java                                   | Python                                              |
+| ------------------------- | ---------------------------------------------------------- | -------------------------------------- | --------------------------------------------------- |
+| **Compilation**           | Compiled to IL (Intermediate Language) then JIT at runtime | Compiled to bytecode, runs on JVM      | Interpreted (can be compiled to bytecode with PyPy) |
+| **Speed**                 | Fast, near Java speed                                      | Fast, platform-independent             | Slower, interpreted                                 |
+| **Usage**                 | Web, desktop, games, enterprise apps                       | Web, mobile, enterprise apps           | Web, scripting, data science, AI/ML                 |
+| **Advantages**            | Strong typing, powerful IDE support, integration with .NET | Platform-independent, mature ecosystem | Easy syntax, fast development, versatile            |
+| **Latest Version**        | C# 12 (.NET 8)                                             | Java 21                                | Python 3.12                                         |
+| **Platform**              | Windows, Linux, macOS (.NET Core)                          | Cross-platform (JVM)                   | Cross-platform                                      |
+| **Community & Libraries** | Large, especially for Windows apps                         | Very large, mature                     | Huge, especially for AI/ML and web                  |
